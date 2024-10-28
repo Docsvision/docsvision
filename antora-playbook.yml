@@ -153,6 +153,7 @@ asciidoc:
     dv-dm-admins-dir: 'Администраторы УД'
     mssql: 'Microsoft SQL@'
     pgsql: 'PostgreSQL@'
+    ttsql: 'Tantor BE'
     tspcom-v: '2.0 и выше'
     ocspcom-v: '2.0 и выше'
     cadescom-v: '2.0.13292 и выше'
