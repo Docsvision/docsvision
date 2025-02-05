@@ -30,9 +30,9 @@ content:
       branches: [main]
     - url: https://github.com/Docsvision/antora-web-client.git
 #    - url: https://github.com/Docsvision/antora-worker-service.git
-    - url: https://github.com/Docsvision/antora-platform.git
-    - url: https://github.com/Docsvision/antora-management-console.git
-    - url: https://github.com/Docsvision/antora-install-guide.git
+#    - url: https://github.com/Docsvision/antora-platform.git
+#    - url: https://github.com/Docsvision/antora-management-console.git
+#    - url: https://github.com/Docsvision/antora-install-guide.git
 #    - url: https://github.com/Docsvision/antora-designers-and-directories.git
     - url: https://github.com/Docsvision/antora-system-description.git
       branches: [dev]
@@ -40,10 +40,10 @@ content:
 #    - url: https://github.com/Docsvision/antora-back-office.git
 #    - url: https://github.com/Docsvision/antora-upgrade-guide.git
 #      branches: [dev]
-    - url: https://github.com/Docsvision/antora-engineer-guide.git
-      branches: [dev]
-    - url: https://github.com/Docsvision/antora-programmer-guide.git
-      branches: [dev]
+#    - url: https://github.com/Docsvision/antora-engineer-guide.git
+#      branches: [dev]
+#    - url: https://github.com/Docsvision/antora-programmer-guide.git
+#      branches: [dev]
 #    - url: https://github.com/Docsvision/antora-windows-client.git
 #    - url: https://github.com/Docsvision/antora-document-management.git
 #    - url: https://github.com/Docsvision/antora-schemas-description.git
@@ -52,7 +52,7 @@ content:
 #    - url: https://github.com/Docsvision/antora-archive-management.git
     - url: https://github.com/Docsvision/antora-edi.git
 #    - url: https://github.com/Docsvision/antora-resource-kit.git
-    - url: https://github.com/Docsvision/antora-install-linux.git
+#    - url: https://github.com/Docsvision/antora-install-linux.git
 #    - url: https://github.com/Docsvision/antora-take-office.git
 #    - url: https://github.com/Docsvision/antora-m4d-registry-integration.git
 #    - url: https://github.com/Docsvision/antora-kontur-integration.git
