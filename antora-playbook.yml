@@ -42,8 +42,8 @@ content:
 #      branches: [dev]
     - url: https://github.com/Docsvision/antora-engineer-guide.git
       branches: [dev]
-    - url: https://github.com/Docsvision/antora-programmer-guide.git
-      branches: [dev]
+#    - url: https://github.com/Docsvision/antora-programmer-guide.git
+#      branches: [dev]
 #    - url: https://github.com/Docsvision/antora-windows-client.git
 #    - url: https://github.com/Docsvision/antora-document-management.git
 #    - url: https://github.com/Docsvision/antora-schemas-description.git
@@ -52,7 +52,7 @@ content:
 #    - url: https://github.com/Docsvision/antora-archive-management.git
     - url: https://github.com/Docsvision/antora-edi.git
 #    - url: https://github.com/Docsvision/antora-resource-kit.git
-    - url: https://github.com/Docsvision/antora-install-linux.git
+#    - url: https://github.com/Docsvision/antora-install-linux.git
 #    - url: https://github.com/Docsvision/antora-take-office.git
 #    - url: https://github.com/Docsvision/antora-m4d-registry-integration.git
 #    - url: https://github.com/Docsvision/antora-kontur-integration.git
