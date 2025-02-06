@@ -24,14 +24,14 @@ content:
   sources:
 #    - url: https://github.com/Docsvision/antora-type-user.git
 #      branches: [dev]
-    - url: https://github.com/Docsvision/antora-type-admin.git
+    - url: https://github.com/Docsvision/antora-type-programmer.git
       branches: [dev]
     - url: https://github.com/Docsvision/antora-start-page.git
       branches: [main]
     - url: https://github.com/Docsvision/antora-web-client.git
 #    - url: https://github.com/Docsvision/antora-worker-service.git
-    - url: https://github.com/Docsvision/antora-platform.git
-    - url: https://github.com/Docsvision/antora-management-console.git
+#    - url: https://github.com/Docsvision/antora-platform.git
+#    - url: https://github.com/Docsvision/antora-management-console.git
 #    - url: https://github.com/Docsvision/antora-install-guide.git
 #    - url: https://github.com/Docsvision/antora-designers-and-directories.git
 #    - url: https://github.com/Docsvision/antora-system-description.git
@@ -42,8 +42,8 @@ content:
 #      branches: [dev]
 #    - url: https://github.com/Docsvision/antora-engineer-guide.git
 #      branches: [dev]
-#    - url: https://github.com/Docsvision/antora-programmer-guide.git
-#      branches: [dev]
+    - url: https://github.com/Docsvision/antora-programmer-guide.git
+      branches: [dev]
 #    - url: https://github.com/Docsvision/antora-windows-client.git
 #    - url: https://github.com/Docsvision/antora-document-management.git
 #    - url: https://github.com/Docsvision/antora-schemas-description.git
