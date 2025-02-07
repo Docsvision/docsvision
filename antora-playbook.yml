@@ -9,7 +9,7 @@ antora:
 #    enabled: true
 #    require: ./lib/detect-unused-media/detect-unused-media.js
 site:
-  title: Документация Docsvision
+  title: Документация пользователя Docsvision
   url: /user
 #  start_page: current@system::index.adoc
   robots: allow
