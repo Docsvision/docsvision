@@ -48,7 +48,7 @@ content:
 #    - url: https://github.com/Docsvision/antora-document-management.git
     - url: https://github.com/Docsvision/antora-schemas-description.git
     - url: https://github.com/Docsvision/antora-solution-manager.git
-#    - url: https://github.com/Docsvision/antora-workflow.git
+    - url: https://github.com/Docsvision/antora-workflow.git
     - url: https://github.com/Docsvision/antora-archive-management.git
     - url: https://github.com/Docsvision/antora-edi.git
     - url: https://github.com/Docsvision/antora-resource-kit.git
