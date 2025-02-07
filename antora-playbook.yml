@@ -10,7 +10,7 @@ antora:
 #    require: ./lib/detect-unused-media/detect-unused-media.js
 site:
   title: Документация разработчика Docsvision
-  url: /admin
+  url: /programmer
 #  start_page: current@system::index.adoc
   robots: allow
 urls:
