@@ -5,6 +5,7 @@ antora:
   - id: unlisted-pages
     enabled: true
     require: ./lib/unlisted.js
+  - '@antora/atlas-extension'
 #  - id: detect-unused-media
 #    enabled: true
 #    require: ./lib/detect-unused-media/detect-unused-media.js
@@ -23,15 +24,12 @@ content:
 #    , '5.5.*', '6.1*', 'GBL-*', 'SUP-*', 'CU*', 'dv5*', 'dv6*']
   edit_url: ~
   sources:
-#    - url: https://github.com/Docsvision/antora-type-user.git
-#      branches: [dev]
     - url: https://github.com/Docsvision/antora-type-engineer.git
-      branches: [dev]
     - url: https://github.com/Docsvision/antora-start-page.git
       branches: [main]
     - url: https://github.com/Docsvision/antora-web-client.git
 #    - url: https://github.com/Docsvision/antora-worker-service.git
-#    - url: https://github.com/Docsvision/antora-platform.git
+    - url: https://github.com/Docsvision/antora-platform.git
 #    - url: https://github.com/Docsvision/antora-management-console.git
 #    - url: https://github.com/Docsvision/antora-install-guide.git
 #    - url: https://github.com/Docsvision/antora-designers-and-directories.git
@@ -53,7 +51,7 @@ content:
     - url: https://github.com/Docsvision/antora-archive-management.git
     - url: https://github.com/Docsvision/antora-edi.git
     - url: https://github.com/Docsvision/antora-resource-kit.git
-#    - url: https://github.com/Docsvision/antora-install-linux.git
+    - url: https://github.com/Docsvision/antora-install-linux.git
 #    - url: https://github.com/Docsvision/antora-take-office.git
 #    - url: https://github.com/Docsvision/antora-m4d-registry-integration.git
 #    - url: https://github.com/Docsvision/antora-kontur-integration.git
@@ -71,6 +69,7 @@ ui:
     url: ./build/ui-bundle.zip
 asciidoc:
   attributes:
+    primary-site-url: https://doc-online-vdv.digdes.com/
     sectids: ''
     sectanchors: ''
     icons: font
@@ -197,5 +196,6 @@ asciidoc:
   - '@asciidoctor/tabs'
 output:
   dir: wwwroot
+#  clean: true
 runtime:
   fetch: true
