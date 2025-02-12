@@ -69,7 +69,6 @@ ui:
     url: ./build/ui-bundle.zip
 asciidoc:
   attributes:
-    primary-site-url: https://doc-online-vdv.digdes.com/
     sectids: ''
     sectanchors: ''
     icons: font
