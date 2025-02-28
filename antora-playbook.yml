@@ -207,6 +207,7 @@ asciidoc:
     pg-sql-v-2: 'Postgres Pro версии 12'
     tt-sql-v: 'Tantor BE версии 15.4.3'
     tt: 'Tantor'
+    pl-cu5: '6.1 сборки ??? и выше'
   extensions:
 #  - asciidoctor-kroki
   - '@asciidoctor/tabs'
